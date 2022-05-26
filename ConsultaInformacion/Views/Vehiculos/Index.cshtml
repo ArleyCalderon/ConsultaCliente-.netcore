@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ConsultaInformacion.Models.Vehiculo>
+@{
+    ViewData["Title"] = "Lista de vehículos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    @if(TempData["mensaje"] != null)
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            @TempData["mensaje"]
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    }
+    <div class="row">
+        <div class="col-sm-6">
+            <h3>Lista de vehículos</h3>
+        </div>
+        <div class="col-sm-6">
+            <a class="btn btn-success d-block" asp-action="Create" asp-controller="Vehiculos">Agregar</a>
+        </div>
+    </div>
+
+    <div class="row">
+        @if(Model.Count()>0)
+        {
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <td>@Html.DisplayNameFor(m => m.Id)</td>
+                        <td>@Html.DisplayNameFor(m => m.IdPropietario)</td>
+                        <td>@Html.DisplayNameFor(m => m.Marca)</td>
+                        <td>@Html.DisplayNameFor(m => m.Placa)</td>
+                        <td>@Html.DisplayNameFor(m => m.Modelo)</td>
+                        <td>@Html.DisplayNameFor(m => m.CiudadOrigen)</td>
+                        <td>@Html.DisplayNameFor(m => m.CiudadDestino)</td>
+                        <td>Acciones</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.IdPropietario</td>
+                            <td>@item.Marca</td>
+                            <td>@item.Placa</td>
+                            <td>@item.Modelo</td>
+                            <td>@item.CiudadOrigen</td>
+                            <td>@item.CiudadDestino</td>
+                           
+                            <td>
+                                <a asp-controller="Vehiculos" asp-action="Edit" asp-route-id="@item.Id" class ="btn btn-warning ">Editar</a>
+                                <a asp-controller="Vehiculos" asp-action="Delete" asp-route-id="@item.Id" class ="btn btn-danger">Eliminar</a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No hay registros</p>
+        }
+    </div>
+</div>
+

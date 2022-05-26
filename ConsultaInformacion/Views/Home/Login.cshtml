@@ -1,0 +1,43 @@
+﻿@model ConsultaInformacion.Models.Ad_Login
+@{
+    ViewData["Title"] = "Login";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+   
+}
+
+<div class="container" >
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <form class="form-horizontal" asp-action="Login">
+                <div class="form-group">
+                    <label class="control-label">Admin Id</label>
+                    <input asp-for="Admin_id" class="from-control" type="text" />
+                    <span asp-validation-for="Admin_id" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Password</label>
+                    <input asp-for="Admin_Pass" class="from-control" type="password" />
+                    <span asp-validation-for="Admin_Pass" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="submit" />
+                </div>
+            </form>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+@{
+    if (TempData["msg"]!=null)
+    {
+        <script>
+            alert('@TempData["msg"]')
+        </Script>
+    }
+    
+}
+@section Scripts{
+    @{ <partial name="_ValidationScriptsPartial"/>}
+}
+

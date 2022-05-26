@@ -1,0 +1,53 @@
+﻿@model ConsultaInformacion.Models.Propietario
+@{
+    ViewData["Title"] = "Crear propietario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h3>crear nuevo propietario</h3>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-10">
+            <form method="post" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="NombrePropietario" class ="control-label"></label>
+                    <input asp-for="NombrePropietario" class="form-control" />
+                    <span asp-validation-for="NombrePropietario" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Cedula" class ="control-label"></label>
+                    <input asp-for="Cedula" class="form-control" />
+                    <span asp-validation-for="Cedula" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Celular" class ="control-label"></label>
+                    <input asp-for="Celular" class="form-control" />
+                    <span asp-validation-for="Celular" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Correo" class ="control-label"></label>
+                    <input asp-for="Correo" class="form-control" />
+                    <span asp-validation-for="Correo" class="text-danger"></span>
+                </div>
+
+                <div class ="form-group">
+                    <input type="submit" value"Crear propietario" class="btn btn-primary" />
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{ <partial name="_ValidationScriptsPartial"/>}
+}

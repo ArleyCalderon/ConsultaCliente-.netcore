@@ -1,0 +1,226 @@
+﻿++Solución "ConsultaInformacion" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:ConsultaInformacion.sln
+++ConsultaInformacion
+i:{00000000-0000-0000-0000-000000000000}:ConsultaInformacion
+++Connected Services 
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1173
+++Dependencias
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1172
+++Properties
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\properties\
+++wwwroot
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\
+++Controllers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\controllers\
+++HomeController.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\controllers\homecontroller.cs
+++PropietariosController.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\controllers\propietarioscontroller.cs
+++VehiculosController.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\controllers\vehiculoscontroller.cs
+++Data
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\data\
+++ApplicationDbContext.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\data\applicationdbcontext.cs
+++Migrations
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\
+++Models
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\
+++Ad_Login.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\ad_login.cs
+++Db.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\db.cs
+++ErrorViewModel.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\errorviewmodel.cs
+++Propietario.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\propietario.cs
+++Vehiculo.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\models\vehiculo.cs
+++Views
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\
+++Home
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\home\
+++Index.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\home\index.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\propietarios\index.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\vehiculos\index.cshtml
+++Login.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\home\login.cshtml
+++Privacy.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\home\privacy.cshtml
+++Propietarios
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\propietarios\
+++Create.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\propietarios\create.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\vehiculos\create.cshtml
+++Delete.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\propietarios\delete.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\vehiculos\delete.cshtml
+++Edit.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\propietarios\edit.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\vehiculos\edit.cshtml
+++Shared
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\shared\
+++_Layout.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\shared\error.cshtml
+++Vehiculos
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\vehiculos\
+++_ViewImports.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\views\_viewstart.cshtml
+++appsettings.json
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\appsettings.json
+++Program.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\program.cs
+++Startup.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\startup.cs
+++No se detectaron dependencias de servicio
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1174
+++Analizadores
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:analizadores
+++Marcos de trabajo
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:marcos de trabajo
+++Paquetes
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:paquetes
+++launchSettings.json
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\properties\launchsettings.json
+++css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\css\
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\js\
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\
+++favicon.ico
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\favicon.ico
+++20220426123112_MigracionInicial.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220426123112_migracioninicial.cs
+++20220426143533_MigracionInicia.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220426143533_migracioninicia.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\applicationdbcontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.16)
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1188
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1189
+++Microsoft.EntityFrameworkCore.Tools (5.0.0)
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1190
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:>1191
+++site.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\css\site.css
+++site.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\js\site.js
+++bootstrap
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\
+++jquery
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\
+++jquery-validation
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation-unobtrusive\
+++20220426123112_MigracionInicial.Designer.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220426123112_migracioninicial.designer.cs
+++20220426143533_MigracionInicia.Designer.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220426143533_migracioninicia.designer.cs
+++dist
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\dist\
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\license.txt
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++20220526021227_MigracionVehiculos.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220526021227_migracionvehiculos.cs
+++20220526021227_MigracionVehiculos.Designer.cs
+i:{9e1ff3bd-4596-412b-9340-b3322b4619fd}:c:\users\hp\documents\visual studio 2022\consultainformacion\consultainformacion\migrations\20220526021227_migracionvehiculos.designer.cs
